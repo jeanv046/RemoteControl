@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.imageInnova{
+  background-image: url('../public/37233.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.fw-bold{
+  font-weight: bold !important;
+}

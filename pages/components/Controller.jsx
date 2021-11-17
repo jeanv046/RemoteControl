@@ -43,7 +43,7 @@ const Controller = ({textLabel}) => {
             value={typeof value === 'number' ? value : 0}
             onChange={handleSliderChange}
             aria-labelledby="input-slider"
-            style={{color: 'red'}}
+            style={{color: 'cian'}}
             step={0.01}
             min={-1}
             max={1}
